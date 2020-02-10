@@ -1,0 +1,6 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set hero_image = page.header.hero_image ? page.media[page.header.hero_image] : page.media.images|first %}
+
+{{ dump(hero_image) }}
+
+<div style="background-image: {{ page.media[page.header.media_order].url }};height:auto;width=100%;"><img src="{{ page.media[page.header.media_order].url }}" /></div>
