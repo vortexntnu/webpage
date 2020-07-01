@@ -7,29 +7,18 @@ cont1:
         -
             avsnitt: 'Vortex NTNU is an independent student organization at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Our team is composed of students from different engineering disciplines from bachelor and master degree programs.'
         -
-            avsnitt: 'Each year we conceive, design, and build an ROV from scratch to compete in the MATE international ROV competition. We dive headfirst into a diversity of challenges in an effort to push our boundaries and improve skills in communication, management, and engineering.'
+            avsnitt: 'Each year up until 2019 we have conceived, designed, and built an ROV from scratch to compete in the MATE international ROV competition. This year we have developed as an organization and made our first autonomous vehicle (AUV). This means we will be entering a new competition and face different challenges to push our boundaries further. We dive headfirst into this new challenge and are eager to improve our skills in engineering, teamwork and development of autonomous systems.'
         -
             avsnitt: 'We are passionate about science and technology, and we provide an ideal opportunity for ambitious students to explore and develop their talents and skills in a collaborative undertaking. Through the project, we demonstrate that we can deliver a complex and integrated product in the demanding environment of an underwater competition.'
 cont2:
     tittel: 'What is an AUV?'
     content:
         -
-            avsnitt: 'AUV=Autonomous Underwater Vehicle'
+            avsnitt: 'An Autonomous Underwater Vehicle (AUV) is an unmanned vehicle which performs its mission without being directly controlled by a human operator. AUVs use advanced perception and control technology in order to locate and solve tasks in possibly harsh and challenging subsea environments. '
         -
-    tittel: 'What is an ROV?'
-    content:
+            avsnitt: 'Mounted thrusters allow full navigation forward, backward, sideways; and even rotation around the vehicle''s own axis is possible. The mobile device may have video cameras, lights, various types of sensors, sonar capabilities as well as manipulator and cutting arms.'
         -
-            avsnitt: 'ROV = Remotely Operated Vehicle'
-
-cont3:
-    tittel: 'What is an ROV?'
-    content:
-        -
-            avsnitt: 'A Remotely Operated Vehicle (ROV) is an unmanned underwater robot capable of deployment at great depth. The vehicle is tethered to a control unit aboard a vessel on the surface.'
-        -
-            avsnitt: 'The crew is able to maneuver the vehicle in harsh environments without getting their feet wet. Mounted thrusters allow full navigation forward, backward, sideways; and even rotation around the vehicle''s own axis is possible. The mobile device may have video cameras, lights, various types of sensors, sonar capabilities as well as manipulator and cutting arms. In sum; we are dealing with a carefully calculated and sophisticated structure with appropriate buoyancy, topped with some neat technical gear.'
-        -
-            avsnitt: 'The possibilities that an ROV offers are countless. Usage includes offshore extractions, construction, broadcasting, exploration and surveillance of the subsea environment - even mine hunting and mine breaking. ROVs can even be used for recreational purposes (just for fun)! '
+            avsnitt: 'AUVs are often designed, programmed and armed for specific purposes, like scientific research or maintenance in commercial industries. The possibilities are endless and future problems will demand more and more autonomous technology and automatic systems with minimal human supervision. '
 ---
 
 Change to Expert Mode and edit the "Frontmatter"

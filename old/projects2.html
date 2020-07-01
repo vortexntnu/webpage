@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Projects</title>
+    <link rel="icon" type="img/png" href="img/favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/slideshow1.js" defer></script>
+    <script src="js/slideshow2.js" defer></script>
+    <script src="js/sticky-nav.js" defer></script>
+    <style>
+        #link-wrapper a:nth-of-type(3) {
+            color: #A72717;
+        }
+
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+            from {
+                opacity: 0.4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes fade {
+            from {
+                opacity: 0.4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        .left-content {
+            width: 52.5%;
+        }
+
+        .right-content {
+            width: 40%;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 50px;
+        }
+
+        figure img {
+            width: 100%;
+        }
+
+        figure {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        .timeline-wrapper {
+            padding-top: 50px;
+            margin-left: 1%;
+            width: 99%;
+            border-left: solid 4px white;
+        }
+
+        .timeline {
+            width: 98%;
+            margin-left: 2%;
+            padding-top: 60px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .timeline p {
+            width: 100%;
+        }
+
+        .timeline>h2 {
+            width: 10em;
+        }
+
+        .timeline section {
+            margin-bottom: 40px;
+            margin-top: 0;
+        }
+
+        .content-wrapper {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div id='core-nav'>
+            <a id='img-link' href='index.html'><img src='img/logo_og_navn.png'></a>
+            <div id='link-wrapper'>
+                <a href='index'>HOME</a>
+                <a href='about'>ABOUT</a>
+                <a href='projects'>PROJECTS</a>
+                <a href='team'>TEAM</a>
+                <a href='join'>JOIN US</a>
+                <a href='contact'>CONTACT</a>
+            </div>
+        </div>
+    </nav>
+    <div class="align">
+        <section>
+            <h1>The MATE international ROV competition</h1>
+            <div class="flex">
+                <div class="left-content">
+                    <p>The MATE international ROV competition provides an excellent framework for acquiring and utilizing competence from various fields of study. MATE challenges students to build an ROV capable of tackling specific tasks to compete against teams from around the world. The competition is not won entirely by the best performing ROV but rather an overall product in addition to technical reports, poster displays, and financial, sales, and engineering presentations.</p>
+                    <p>The MATE competition challenges over 100 teams annually to take the leap of incorporating design and manufacturing, in conjunction with the marketing and sales aspects of engineering. Each team’s performance are evaluated by working professionals who serve as competition judges. The tasks given in the competition shall simulate the challenges that industry faces in the ocean workplace.</p>
+                    <p>The competition is held annually at a new location to highlight different problem areas. This year the competition is located at Long Beach, California. Vortex NTNU will participate in the Explorer class - the highest and most demanding level of the MATE competition. Teams are given points based on performance at a series of events. The team with the highest score wins.</p>
+                </div>
+                <div class="right-content vertical-flex">
+                    <figure><img src="img/projects/nasa.jpg">
+                        <figcaption>The 2016 MATE international ROV competition took place at the NASA Johnson Space Center's Neutral Buoyancy Lab in Houston, Texas</figcaption>
+                    </figure>
+                    <figure><img src="img/projects/long-beach.jpg">
+                        <figcaption>The 16th annual MATE international ROV competition will be held at Long Beach, California in summer 2017</figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="timeline-wrapper">
+                <div class="timeline">
+                    <h2 id="mate2017">2017</h2>
+                    <div class="content-wrapper">
+                        <section id="2017">
+                            <h2>Terrapin</h2>
+                            <p>An estimated 6000 working hours and 71 000 NOK/9000 USD were spent building our brand new ROV, Terrapin. In June, Vortex NTNU was ready for the 2017 MATE ROV competition in Long Beach, California.</p>
+                            <p>Terrapin is Vortex NTNU’s second ROV (and gets its name from the shape which makes it resemble a terrapin, a small freshwater turtle). It has eight thrusters which not only contribute to Terrapin’s stunning look, but more importantly give it six degrees of freedom. In combination with the controller used for steering, this makes for a very intuitive driving experience. Four clamps are used to fasten the transparent cover which gives Terrapin its characteristic look, a design which provides easy access to the electronics aboard. Terrapin featured a new and improved camera system. </p>
+                            <p>Last year we had several failures in our camera system, and we wanted a more robust and reliable solution. By more than doubling the amount of cameras, Terrapin featured a total of seven cameras. This provided Terrapin with some much needed redundancy in case of a failure.</p>
+                        </section>
+                        <section>
+                            <h3>The Task</h3>
+                            <p>The Port of Long Beach is one of the world’s busiest seaports. It is the second-busiest container port in the United States, after the Port of Los Angeles, which it connects to. With all of the activity and vessel traffic, the Port of Long Beach is not immune to accidents and pollution. Thousands of dollars have been spent on the removal and remediation of contaminated sites. Specifically, the port managers are in need of a robot that can:</p>
+                            <ol>
+                                <li>Assist with the installation of a Hyperloop system to expedite the delivery of goods and streamline commerce</li>
+                                <li>Conduct maintenance on the port’s water and light show to guarantee uninterrupted entertainment</li>
+                                <li>Identify and collect samples of contaminated sediment then remediate the area to protect the health of people and the environment</li>
+                                <li>Identify the contents of containers that fell off of a cargo ship into the harbor and map the accident site to ensure the safety of the port and its operations.</li>
+                            </ol>
+                        </section>
+                        <section>
+                            <h3>The Result</h3>
+                            <p>In the competition in Long Beach, Vortex NTNU placed 13th out of 25 contenders in the Explorer class. The highlights this year were the technical documentation, marketing and safety categories, all of which Vortex performed well in.</p>
+                            <p>Vortex received 50 points for safety, which was the highest score awarded in that category. It is also worth noticing the great improvement in marketing. The team went from getting the lowest number of points in 2016 to scoring in the top ten on the marketing display in 2017.</p>
+                            <p>Although the team put in an immense effort during the last few days in Long Beach, Vortex NTNU struggled with technical problems, and ended up with a low score on the product demonstration. Despite this, the strong performances in other categories led to an overall improvement compared to 2016, both in total points and placement in the competition. </p>
+                        </section>
+                    </div>
+                </div>
+                <div class="timeline">
+                    <h2>2016</h2>
+                    <div class="content-wrapper">
+                        <section id=2016>
+                            <h2>Maelstrom</h2>
+                            <p>The Maelstrom project was the first project for the newly started student organization, Vortex NTNU. After nearly 6000 working hours and an estimated cost of 16 200 USD, Maelstrom was born. Maelstrom is a technical and high functioning ROV, but with a simple square design. Due to lack of experience, Maelstroms components are highly excessive compared to its use. The thrusters and connectors can for instance withstand depths of 1000 meters.</p>
+                        </section>
+                        <section>
+                            <div class="slideshow-container">
+                                <div class="mySlides1">
+                                    <img src="img/projects/techspecs/techspecs1.png">
+                                </div>
+                                <div class="mySlides1">
+                                    <img src="img/projects/techspecs/techspecs2.png">
+                                </div>
+                                <div style="text-align:center">
+                                    <span class="dot" onclick="currentSlide1(1)"></span>
+                                    <span class="dot" onclick="currentSlide1(2)"></span>
+                                </div>
+                            </div>
+                        </section>
+                        <section>
+                            <h3>The Task</h3>
+                            <p>NASA and Oceaneering Space Systems (OSS) have issued a request for proposals (RFP) for a first-of- its- kind, dual purpose and single launch remotely operated vehicle that can operate in the harsh environments of both the deep ocean and outer space. Specifically, scientists and engineers at these organizations are in need of a robot that can:</p>
+                            <ol>
+                                <li>Survive transport to Jupiter’s moon Europa and operate in the ocean under its ice sheet to collect data and deploy instrumentation</li>
+                                <li>Find and recover critical equipment that sank in the Gulf of Mexico after a recent series of testing programs</li>
+                                <li>Collect samples and analyze data from oil mats located in the northern Gulf of Mexico to determine their origin</li>
+                                <li>Photograph and collect samples of deep-water corals to assess their health post-Deepwater Horizon oil spill</li>
+                                <li>Prepare a wellhead for decommission and conversion into an artificial reef</li>
+                            </ol>
+                        </section>
+                        <section>
+                            <h3>The Result</h3>
+                            <p>In the final tally, Vortex ended up placing 16th out of 31 teams, however the score distribution tells an interesting story. On the technical product demonstration, which had been the primary focus by far, the team managed a very respectable 10th place. On the other hand, the score sheet marked the effort dead last on marketing, an area where the team had no experience or expertise. All in all, the Vortex’ debut resulted in a decent performance with a clear potential for further improvement. The experience gained and the lessons learned provided the organization with a solid foundation for reaching the long-term ambition of being a top contender.</p>
+                        </section>
+                        <section>
+                            <div class="slideshow-container">
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/1.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/2.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/3.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/4.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/5.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/6.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/7.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/8.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/9.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/10.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/11.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/12.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/13.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/14.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/15.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/16.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/17.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/18.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/19.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/20.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/21.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/22.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/23.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/24.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/25.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/26.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/27.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/28.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/29.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/30.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/31.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/32.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/33.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/34.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/35.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/36.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/37.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/38.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/39.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/40.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/41.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/42.jpg">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/43.JPG">
+                                </div>
+                                <div class="mySlides2 fade">
+                                    <img src="img/projects/terrapin/44.jpg">
+                                </div>
+                                <a class="prev" onclick="plusSlides2(-1)">&#10094;</a>
+                                <a class="next" onclick="plusSlides2(1)">&#10095;</a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

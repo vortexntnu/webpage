@@ -1,0 +1,29 @@
+1535791840
+a:2:{s:7:"content";s:1072:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-4 col-md-12">
+                <p><h4>Vortex</h4><br>Rom D038,<br>O. S. Bragstads plass 2D,<br>Elektroblokk D, 1. etg.,<br>Gløshaugen, NTNU,<br>NO-7034 Trondheim<br>Norway<br><a src="mailto:post@vortexntnu.no">post@vortexntnu.no</a></p>
+                <p><h5>Sponsorship Manager</h5><br>Jørgen Weidemann <a src="mailto:sponsor@vortexntnu.no">sponsor@vortexntnu.no</a></p>
+            </div>
+            <div class="float-right column col-8 col-md-12">
+                <div id="map-d0cb6967d5" class="google-map" style="width: '100%'; height: 400px"
+     data-lat="63.418551"
+     data-lng="10.399409"
+     data-zoom="18"
+     data-scrollwheel="true"
+     data-draggable="1"
+     data-pancontrol="1"
+     data-iconurl="'/absolute/path/to/marker/icon.png'"
+     data-infowindow="
+<p><strong><em>Vortex NTNU</em></strong>
+The Headquarters</p>
+">
+</div>
+
+            </div>
+        </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,27 @@
+1525257058
+a:2:{s:7:"content";s:1819:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+    <h2>Our Values</h2>
+        <div class="columns">
+        
+            <div class="column col-4 col-sm-12">
+                <h3>Commitment</h3>
+                <img title="Commitment" alt="Commitment" class="myclass" src="/user/pages/02.about/03._values/commit.jpg" />
+                                <p>We are committed to fulfill our responsibilities as an individual and as a team to accomplish our goals through optimum effort. With consideration to safety in all our actions, shall we strive to deliver impeccable work beyond what is expected.</p>
+                            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>Teamwork</h3>
+                <img title="Teamwork" alt="Teamwork" class="myclass" src="/user/pages/02.about/03._values/innovasjon.jpg" />
+                                <p>We believe a solid foundation for teamwork is a key factor for success. The state of cohesion we experience trough the project is what makes us who we are as an organization. Team spirit is essential to recognize the individual qualities, and strengthen our overall team performance..</p>
+                            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>Innovation</h3>
+                <img title="Innovation" alt="Innovation" class="myclass" src="/user/pages/02.about/03._values/samarbeid.jpg" />
+                                <p>Each year we strive to make a unique product without limitations from our previous projects. Innovation is crucial to find great solutions to difficult problems, and improving our product even further.</p>
+                            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

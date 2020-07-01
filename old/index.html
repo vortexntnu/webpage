@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Vortex NTNU</title>
+    <link rel="icon" type="img/png" href="img/favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" initial-scale="1">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+   <!-- <script src="js/slideshow-front.js" defer></script>-->
+    <script src="js/sticky-nav.js" defer></script>
+    <style>
+        #link-wrapper a:nth-of-type(1) {
+            color: #A72717;
+        }
+
+        #top-slide {
+            top: 130px;
+        }
+
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+            from {
+                opacity: 0.4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes fade {
+            from {
+                opacity: 0.4
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+        #noe img {
+            top: 0;
+        }
+
+        .align {
+            background: none;
+            top: 130px;
+        }
+
+        .center-align {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .center-align img {
+            width: 2em;
+        }
+
+        .center-align a {
+            line-height: 0;
+            margin-right: 10px;
+            margin-left: 5px;
+        }
+
+        tr {
+            display: block;
+            margin-top: 20px;
+        }
+
+        td a {
+            text-decoration: none;
+            color: white;
+        }
+
+        tr:hover {
+            border-bottom: solid 1px;
+        }
+
+        tr:hover+tr {
+            margin-top: 19px;
+        }
+
+        td:first-of-type {
+            padding-right: 10px;
+            font-weight: bold;
+            font-size: 1.2em;
+            font-style: italic;
+        }
+
+        td {
+            vertical-align: top;
+            line-height: 1em;
+        }
+
+        td:nth-of-type(2) a {
+            margin-top: 0.15em;
+            display: block;
+        }
+
+        .center-align h1 {
+            margin: 0 0;
+        }
+
+        #thanks {
+            width: 100%;
+            margin-top: 300px;
+        }
+
+        #news {
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px 10px;
+            border-radius: 10px;
+            width: 50%;
+            font-size: 0.8em;
+            border: solid #A72717;
+        }
+
+        #scroll {
+            height: 30em;
+            overflow-y: auto;
+        }
+
+        .flex {
+            width: 950px;
+        }
+
+        #media {
+            width: 25%;
+        }
+
+        #media img {
+            width: 100%;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        #media h2 {
+            margin: 0 auto 5px auto;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        #media p {
+            margin: 0 0;
+        }
+
+        .fblink {
+            margin-left: 15px;
+            color: white;
+            text-decoration: none;
+        }
+
+        .fblink:hover {
+            text-decoration: underline;
+        }
+
+        .new {
+            margin-bottom: 15px;
+        }
+
+        i {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div id='core-nav'>
+            <a id='img-link' href='index.html'><img src='img/logo_og_navn.png'></a>
+            <div id='link-wrapper'>
+                <a href='index'>HOME</a>
+                <a href='about'>ABOUT</a>
+                <a href='projects'>PROJECTS</a>
+                <a href='team'>TEAM</a>
+                <a href='join'>JOIN US</a>
+                <a href='contact'>CONTACT</a>
+            </div>
+        </div>
+    </nav>
+    <div id="top-slide" class="slideshow-container">
+        <div class="mySlides fade">
+            <img src="img/home/slideshow/team2018.png">
+        </div>
+                
+    </div>
+    <div class="align flex">
+            <div id="media">
+                    <h2>Follow us on facebook</h2>
+                    <a href="https://www.facebook.com/VortexNTNU" target="_blank"><img src="img/home/face.png"></a>
+                    <h2>@VortexNTNU</h2>
+                </div>
+        <div id="media">
+            <h2>Follow us on snapchat</h2>
+            <img src="img/home/snapcode.png">
+            <h2>vortexntnu</h2>
+        </div>
+    </div>
+    <img id="thanks" src="img/home/thanks.png">
+</body>
+
+</html>

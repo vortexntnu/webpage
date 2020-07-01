@@ -1,0 +1,33 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section id="modular-text" class="section {{ page.header.class}} bg-gray">
+    <section class="container {{ grid_size }}">
+    <h2>{{ page.header.title }}</h2>
+        <div class="columns">
+        
+            <div class="column col-4 col-sm-12">
+                <h3>{{ page.header.cont1.tittel }}</h3>
+                {{ page.media[page.header.cont1.img].html(page.header.cont1.tittel,page.header.cont1.tittel, 'myclass') }}
+                {% for para in page.header.cont1.content %}
+                <p>{{ para.avsnitt }}</p>
+                {% endfor %}
+            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>{{ page.header.cont2.tittel }}</h3>
+                {{ page.media[page.header.cont2.img].html(page.header.cont2.tittel,page.header.cont2.tittel, 'myclass') }}
+                {% for para in page.header.cont2.content %}
+                <p>{{ para.avsnitt }}</p>
+                {% endfor %}
+            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>{{ page.header.cont3.tittel }}</h3>
+                {{ page.media[page.header.cont3.img].html(page.header.cont3.tittel,page.header.cont3.tittel, 'myclass') }}
+                {% for para in page.header.cont3.content %}
+                <p>{{ para.avsnitt }}</p>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>

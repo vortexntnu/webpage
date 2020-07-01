@@ -1,0 +1,29 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section id="modular-text" class="section {{ page.header.class}} bg-gray">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            <div class="column col-7 col-sm-12">
+                <h2>{{ page.header.cont1.tittel }}</h2>
+                {% for para in page.header.cont1.content %}
+                <p><h5>{{ para.avsnitt }}</h5></p>
+                {% endfor %}
+            </div>
+            <div class="float-right column col-5 col-sm-12">
+            <blockquote>
+                <h3>{{ page.header.cont2.tittel }}</h3>
+                {% for para in page.header.cont2.content %}
+                <p>{{ para.avsnitt }}</p>
+                {% endfor %}
+                </blockquote>
+            </div>
+            <div class="column col-6 col-md-12-auto">
+                {% if image %}
+                    {{ image.html('','','align-'~page.header.image_align) }}
+                {% endif %}
+            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>

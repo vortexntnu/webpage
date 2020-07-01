@@ -1,0 +1,487 @@
+1525255481
+a:2:{s:7:"content";s:35545:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-12 col-sm-12">
+            <ul class="tab tab-block">
+                                    <li class="tab-item" onclick="openCity(event, '2018')">
+                    <a>2018</a>
+                    </li>
+                                    <li class="tab-item" onclick="openCity(event, '2017')">
+                    <a>2017</a>
+                    </li>
+                                    <li class="tab-item" onclick="openCity(event, '2016')">
+                    <a>2016</a>
+                    </li>
+                            </ul>
+
+<div id="2018" class="tabcontent column col-12 col-sm-12" style="display:none;">
+    <h3>Team 2018</h3>
+    <p>Team 2018 of Vortex NTNU consists of 21 students from seven different engineering disciplines across all years of study. We have learned a lot from last year's MATE-competition, and this year we will perform even better!</p>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Petter.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Petter Hoem Sletsjøe</h6>CEO<br>Hometown: Sandefjord</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>The Board</h4>
+            <p>The Board is responsible for coordinating the project and securing a sustainable development of the organization. Their involvement ensures close cooperation between the respective group leaders, and the team’s overall progression, budget and wellbeing.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-SindreHansen.png'/>
+            <p>Sindre Hansen<br><i>CTO</i><br><small>Hometown: Mo i Rana</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Sven-Håkon.png'/>
+            <p>Sven-Håkon Wold Sundt<br><i>Head of Finance</i><br><small>Hometown: Kvernaland</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-LineKatrin.png'/>
+            <p>Line Katrin Granhaug Hansen<br><i>Head of Marketing</i><br><small>Hometown: Mo i Rana</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Ole.png'/>
+            <p>Ole Sivert Otterholm<br><i>Head of Software</i><br><small>Hometown: Ålesund</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Kristoffer.png'/>
+            <p>Kristoffer Hermansen<br><i>Head of Electronics</i><br><small>Hometown: Austrheim</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Eivind.png'/>
+            <p>Eivind Salvesen<br><i>Head of Mechanical</i><br><small>Hometown: Stavanger</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-LineKatrin.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Line Katrin Granhaug Hansen</h6>Head of Marketing<br>Hometown: Mo i Rana</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Marketing</h4>
+            <p>The Marketing group is responsible for the overall branding and profiling of the organization. This includes organizing the website, social media, stands, events, sponsors, media outreach, as well as outlining the market display and product presentation for the actual contest.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Jørgen.png'/>
+            <p>Jørgen Weidemann<br><i>Sponsorship Manager</i><br><small>Hometown: Mo i Rana</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Kevin.png'/>
+            <p>Kevin Kottakkakathu Varughese<br><i>Web</i><br><small>Hometown: Sjøvegan</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Ingrid.png'/>
+            <p>Ingrid Sofie Skjetne<br><i>Graphic design</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Ole.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Ole Sivert Otterholm</h6>Head of Software<br>Hometown: Ålesund</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Software</h4>
+            <p>The software group is responsible for developing software that makes it possible for the pilot to control the ROV in an easy, predictable, and reliable way. The responsibilities of the team include essentially all software between the inputs of the pilot, the data gathered by the sensors, and the outputs to the thrusters and manipulator arm.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Dymbe.png'/>
+            <p>Erik Dymbe<br><i>Software</i><br><small>Hometown: Bergen</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Sarah.png'/>
+            <p>Sarah Sayeed Qureshi<br><i>Software</i><br><small>Hometown: Bergen</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Eirik.png'/>
+            <p>Eirik Storesund<br><i>Software</i><br><small>Hometown: Haugesund</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Øystein.png'/>
+            <p>Øystein Utbjoe Andersland<br><i>Software</i><br><small>Hometown: Stord</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Aksel.png'/>
+            <p>Aksel Sætre Lenes<br><i>Software</i><br><small>Hometown: Kolbotn</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Kristoffer.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Kristoffer Hermansen</h6>Head of Electronics<br>Hometown: Austrheim</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Electronics</h4>
+            <p>The Electronics group is responsible for the mapping and packaging of the entire electronic system from scratch. The work range from designing custom PCBs to assembling the finished hardware system. This includes optimizing the solutions, as well as troubleshooting it all when it does not work. </p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Andreas.png'/>
+            <p>Andreas Tessaker<br><i>Electronics</i><br><small>Hometown: Trondheim</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Benjamin.png'/>
+            <p>Benjamin Askelund<br><i>Electronics</i><br><small>Hometown: Trondheim</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Sander.png'/>
+            <p>Sander Furre<br><i>Electronics</i><br><small>Hometown: Stavanger</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Eivind.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Eivind Salvesen</h6>Head of Mechanical<br>Hometown: Stavanger</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Mechanical</h4>
+            <p>The Mechanical group is responsible for developing a waterproof ROV frame construction. This includes 3D modeling, CFD, coordination of manufacturing, designing thrusters, customizing buoyancy elements, as well as integrating the thrusters and cameras to the overall design. The work also includes development of a capable manipulator arm, which is a critical part of the ROV - allowing us to complete the challenging tasks assigned in the competition.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Torstein.png'/>
+            <p>Torstein Grindvik<br><i>Mechanical</i><br><small>Hometown: Skodje</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Møller.png'/>
+            <p>Sindre Møller<br><i>Mechanical</i><br><small>Hometown: Molde</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2018-Morten.png'/>
+            <p>Morten Aadland Fossmark<br><i>Mechanical</i><br><small>Hometown: Bergen</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+    </div>
+<div id="2017" class="tabcontent column col-12 col-sm-12" style="display:none;">
+    <h3>Team 2017</h3>
+    <p>Team 2017 of Vortex NTNU consists of 18 students from seven different engineering disciplines across all years of study. We have learned a lot from last year's MATE-competition, and this year we will perform even better!</p>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-peteraaser.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Peter Aaser</h6>Project Manager<br>Hometown: Asker</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>The Board</h4>
+            <p>The Board is responsible for coordinating the project and securing a sustainable development of the organization. Their involvement ensures close cooperation between the respective group leaders, and the team’s overall progression, budget and wellbeing.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-arnebui.png'/>
+            <p>Arne Bui<br><i>Deputy Project Manager</i><br><small>Hometown: Rygge</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-dongzhang.png'/>
+            <p>Dong Zhang<br><i>Head of Finance</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-sverrespetalen.png'/>
+            <p>Sverre Spetalen<br><i>Head of Marketing</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-mortenfyhnamundsen.png'/>
+            <p>Morten Fyhn Amundsen<br><i>Chief Control</i><br><small>Hometown: Trondheim</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-karlylvisaker.png'/>
+            <p>Karl Ylvisaker<br><i>Chief Electronics</i><br><small>Hometown: Tromsø</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-kristianbortne.png'/>
+            <p>Kristian Bortne<br><i>Chief Mechanical</i><br><small>Hometown: Måløy</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-sverrespetalen.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Sverre Spetalen</h6>Head of Marketing<br>Hometown: Oslo</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Marketing</h4>
+            <p>The Marketing group is responsible for the overall branding and profiling of the organization. This includes organizing the website, social media, stands, events, sponsors, media outreach, as well as outlining the market display and product presentation for the actual contest.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-eivindsalvesen.png'/>
+            <p>Eivind Salvesen<br><i>Sponsorship Manager</i><br><small>Hometown: Stavanger</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-erikdymbe.png'/>
+            <p>Erik Dymbe<br><i>Web & Graphics</i><br><small>Hometown: Bergen</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-mortenfyhnamundsen.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Morten Fyhn Amundsen</h6>Chief Control<br>Hometown: Trondheim</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Control</h4>
+            <p>The Control System group is responsible for developing software that makes it possible for the pilot to control the ROV in an easy, predictable, and reliable way. The responsibilities of the team include essentially all software between the inputs of the pilot, the data gathered by the sensors, and the outputs to the thrusters and manipulator arm.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-ingridfjordheimonstein.png'/>
+            <p>Ingrid Fjordheim Onstein<br><i>GUI</i><br><small>Hometown: Gjøvik</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-sindrehansen.png'/>
+            <p>Sindre Hansen<br><i>HW Interface</i><br><small>Hometown: Mo i Rana</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-vegardkamsvåg.png'/>
+            <p>Vegard Kamsvåg<br><i>Simulator</i><br><small>Hometown: Molde</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-karlylvisaker.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Karl Ylvisaker</h6>Chief Electronics<br>Hometown: Tromsø</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Electronics</h4>
+            <p>The Electronics group is responsible for the mapping and packaging of the entire electronic system from scratch. The work range from designing custom PCBs to assembling the finished hardware system. This includes optimizing the solutions, as well as troubleshooting it all when it does not work.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-simonlorange.png'/>
+            <p>Simon L'orange<br><i>PSU</i><br><small>Hometown: Gjerdrum</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-larshaugsengandersen.png'/>
+            <p>Lars Haugseng Andersen<br><i>Peripherals</i><br><small>Hometown: Grimstad</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-akselsætrelenes.png'/>
+            <p>Aksel Sætre Lenes<br><i>Cameras</i><br><small>Hometown: Kolbotn</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-kristianbortne.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Kristian Bortne</h6>Chief Mechanical<br>Hometown: Måløy</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Mechanical</h4>
+            <p>The Mechanical group is responsible for developing a waterproof ROV frame construction. This includes 3D modeling, CFD, coordination of manufacturing, designing thrusters, customizing buoyancy elements, as well as integrating the thrusters and cameras to the overall design. The work also includes development of a capable manipulator arm, which is a critical part of the ROV - allowing us to complete the challenging tasks assigned in the competition.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-petterhoemsletsjøe.png'/>
+            <p>Petter Hoem Sletsjøe<br><i>Frame & Enclosure</i><br><small>Hometown: Sandefjord</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-vegardslettahjellskjefstad.png'/>
+            <p>Vegard Slettahjell Skjefstad<br><i>Thrusters</i><br><small>Hometown: Flateby</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2017-greataniajuardi.png'/>
+            <p>Greatania Juardi<br><i>Manipulator</i><br><small>Hometown: London</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+    </div>
+<div id="2016" class="tabcontent column col-12 col-sm-12" style="display:none;">
+    <h3>Team 2016</h3>
+    <p>Team 2016 of Vortex NTNU consists of 21 students from six different engineering disciplines across all years of study. Together we will develop an ROV to compete in the international MATE competition - representing NTNU for the first time!</p>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-danieltran.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Daniel Tran</h6>Leader<br>Hometown: Bømlo</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Management</h4>
+            <p>The management is responsible for coordinating the project and securing a sustainable development of the organization. Their involvement ensures close cooperation between the respective group leaders, and the team’s overall progression, budget and wellbeing.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-olejohanlønnum.png'/>
+            <p>Ole Johan Lønnum<br><i>Deputy Leader</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Morten Liland<br><i>Chief Technical Engineer</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-mariehenriksen.png'/>
+            <p>Marie Henriksen<br><i>Head of Finance</i><br><small>Hometown: Horten</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-johanneslorentzen.png'/>
+            <p>Johannes Lorentzen<br><i>HR and HSEQ Manager</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Geir Kulia<br><i>Elected Representative</i><br><small>Hometown: Lillesand</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Vebjørn Kjerstad</h6>Sponsorship Manager<br>Hometown: Tromsø</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Marketing</h4>
+            <p>The marketing group is responsible for establishing sponsorship agreements as well as follow-ups. The efforts involve exposure of our activities and partners on campus, to the industry and during the competition. This includes marketing and public relations, management of our website and social media profiles.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Geir Kulia<br><i>IT Manager</i><br><small>Hometown: Lillesand</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-olejohanlønnum.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Ole Johan Lønnum</h6>Group Leader Mechanical<br>Hometown: Oslo</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Mechanical</h4>
+            <p>The mechanical group is responsible for designing and manufacturing a unified waterproof ROV frame construction. This includes 3D modelling in CAD, making payloads, production of buoyancy elements and competition props.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-kristianbortne.png'/>
+            <p>Kristian Bortne<br><i>Product Development Engineer</i><br><small>Hometown: Måløy</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Arne Bui<br><i>Product Development Engineer</i><br><small>Hometown: Rygge</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Greatania Juardi<br><i>Product Development Engineer</i><br><small>Hometown: London</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Sarah Ann Prescott<br><i>Product Development Engineer</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-madsjøsok.png'/>
+            <p>Mads Jøsok<br><i>CAD Engineer</i><br><small>Hometown: Brattvåg</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-karlylvisaker.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Karl Ylvisaker</h6>Group Leader Electronics<br>Hometown: Tromsø</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Electronics</h4>
+            <p>The electronics group is responsible for the mapping and packaging of the entire electronic system. The work includes development of mission-specific sensors, circuit boards, and the control unit.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-larshaugsengandersen.png'/>
+            <p>Lars Haugseng Andersen<br><i>Digital Design</i><br><small>Hometown: Grimstad</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-simonlorange.png'/>
+            <p>Simon L'orange<br><i>Analog Design</i><br><small>Hometown: Gjerdrum</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-peteraaser.png'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">Peter Aaser</h6>Group Leader Control and Communication<br>Hometown: Asker</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Control and Communication</h4>
+            <p>The control and communication group is responsible for maneuverability and stability of the ROV allowing the pilot to perform the tasks consistently and reliably. The work spans from system architecture design, writing embedded software to control the thrusters, programming the dynamic positioning system, and ensuring seamless communication between topside and the ROV is established.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-mortenfyhnamundsen.png'/>
+            <p>Morten Fyhn Amundsen<br><i>Dynamic Positioning System</i><br><small>Hometown: Trondheim</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-håkongimse.png'/>
+            <p>Håkon Gimse<br><i>System Development</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-eiriklothefoseid.png'/>
+            <p>Eirik Lothe Foseid<br><i>System Development</i><br><small>Hometown: Stord</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Øystein Havstad<br><i>Embedded System Development</i><br><small>Hometown: Grimstad</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+        <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src=''/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;"></h6><br></p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>Manipulator</h4>
+            <p>The manipulator group is responsible for the design and production of a capable manipulator arm that can pick up and handle objects. The arm is an essential and critical part of the ROV allowing it to complete tasks assigned in the MATE competition.</p>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-peteraaser.png'/>
+            <p>Peter Aaser<br><i>EiT</i><br><small>Hometown: Asker</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-placeholder.png'/>
+            <p>Alexander Wasaznik<br><i>EiT</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-håkongimse.png'/>
+            <p>Håkon Gimse<br><i>EiT</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-johanneslorentzen.png'/>
+            <p>Johannes Lorentzen<br><i>EiT</i><br><small>Hometown: Oslo</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-larshaugsengandersen.png'/>
+            <p>Lars Haugseng Andersen<br><i>EiT</i><br><small>Hometown: Grimstad</small></p>
+            </div>
+                        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='/user/pages/04.team/02._teams/2016-simonlorange.png'/>
+            <p>Simon L'orange<br><i>EiT</i><br><small>Hometown: Gjerdrum</small></p>
+            </div>
+                    </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+    </div>
+
+
+            <script>
+                function openCity(evt, cityName) {
+                    var i, tabcontent, tablinks;
+                    tabcontent = document.getElementsByClassName("tabcontent");
+                    for (i = 0; i < tabcontent.length; i++) {
+                        tabcontent[i].style.display = "none";
+                    }
+                    tablinks = document.getElementsByClassName("tab-item");
+                    for (i = 0; i < tablinks.length; i++) {
+                        tablinks[i].className = tablinks[i].className.replace(" active", "");
+                    }
+                    document.getElementById(cityName).style.display = "block";
+                    evt.currentTarget.className += " active";
+                }
+                
+                // Get the element with id="defaultOpen" and click on it
+                document.getElementsByClassName("tab-item")[0].click();
+            </script>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

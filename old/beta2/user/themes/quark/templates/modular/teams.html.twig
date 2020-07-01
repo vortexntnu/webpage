@@ -1,0 +1,65 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section id="modular-text" class="section {{ page.header.class}} bg-gray">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            <div class="column col-12 col-sm-12">
+            <ul class="tab tab-block">
+                {% for item in page.header.items %}
+                    <li class="tab-item" onclick="openCity(event, '{{ item }}')">
+                    <a>{{ item }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+
+{% for cont in page.header.years %}
+<div id="{{ cont.year }}" class="tabcontent column col-12 col-sm-12" style="display:none;">
+    <h3>Team {{ cont.year }}</h3>
+    <p>{{ cont.description }}</p>
+    {% for gruppe in cont.content %}
+    <div id="wrapper" style="display:table-cell;">
+        <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='{{ page.media[gruppe.leader.image].url }}'/>
+            <p><h6 style="padding-left: 1.5em;text-indent:-1.5em;">{{ gruppe.leader.name }}</h6>{{ gruppe.leader.role }}<br>{{ gruppe.leader.from }}</p>
+        </div>
+        <div class="float-right column col-9 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <h4>{{ gruppe.title }}</h4>
+            <p>{{ gruppe.description }}</p>
+            {% for member in gruppe.members %}
+            <div class="column col-3 col-sm-12" style="vertical-align:top;display: inline-block;">
+            <img src='{{ page.media[member.image].url }}'/>
+            <p>{{ member.name }}<br><i>{{ member.role }}</i><br><small>{{ member.from }}</small></p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <br>
+    <div class="divider"></div>
+    {% endfor %}
+</div>
+{% endfor %}
+
+
+            <script>
+                function openCity(evt, cityName) {
+                    var i, tabcontent, tablinks;
+                    tabcontent = document.getElementsByClassName("tabcontent");
+                    for (i = 0; i < tabcontent.length; i++) {
+                        tabcontent[i].style.display = "none";
+                    }
+                    tablinks = document.getElementsByClassName("tab-item");
+                    for (i = 0; i < tablinks.length; i++) {
+                        tablinks[i].className = tablinks[i].className.replace(" active", "");
+                    }
+                    document.getElementById(cityName).style.display = "block";
+                    evt.currentTarget.className += " active";
+                }
+                
+                // Get the element with id="defaultOpen" and click on it
+                document.getElementsByClassName("tab-item")[0].click();
+            </script>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>

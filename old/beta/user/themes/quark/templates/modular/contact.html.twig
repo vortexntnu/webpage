@@ -1,0 +1,16 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section id="modular-text" class="section {{ page.header.class}} bg-gray">
+    <section class="container {{ grid_size }}">
+        <div class="columns">
+            <div class="column col-4 col-md-12">
+                <p>{{ page.header.adress }}</p>
+                <p>{{ page.header.sponsor }}</p>
+            </div>
+            <div class="float-right column col-8 col-md-12">
+                {{ content }}
+            </div>
+        </div>
+    </section>
+</section>

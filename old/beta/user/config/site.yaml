@@ -1,0 +1,23 @@
+title: 'Vortex NTNU'
+default_lang: en
+author:
+  name: Kevin
+  email: kevinkv@hotmail.com
+taxonomies:
+  - category
+  - tag
+  - ROV
+  - ntnu
+  - competition
+  - mate
+  - drone
+  - underwater
+metadata:
+  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

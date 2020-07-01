@@ -1,0 +1,133 @@
+1525256681
+a:2:{s:7:"content";s:10913:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-7 col-sm-12">
+            <ul class="tab tab-block">
+                                    <li class="tab-item" onclick="openCity(event, '2017')">
+                    <a>2017</a>
+                    </li>
+                                    <li class="tab-item" onclick="openCity(event, '2016')">
+                    <a>2016</a>
+                    </li>
+                            </ul>
+                <!-- <h2></h2>
+                 -->
+
+<div id="2017" class="tabcontent" style="display:none;">
+    <h3>2017 - Terrapin</h3>
+            <p>An estimated 6000 working hours and 71 000 NOK/9000 USD were spent building our brand new ROV, Terrapin. In June, Vortex NTNU was ready for the 2017 MATE ROV competition in Long Beach, California.</p>
+            <p>Terrapin is Vortex NTNU’s second ROV (and gets its name from the shape which makes it resemble a terrapin, a small freshwater turtle). It has eight thrusters which not only contribute to Terrapin’s stunning look, but more importantly give it six degrees of freedom. In combination with the controller used for steering, this makes for a very intuitive driving experience. Four clamps are used to fasten the transparent cover which gives Terrapin its characteristic look, a design which provides easy access to the electronics aboard. Terrapin featured a new and improved camera system.</p>
+            <p>Last year we had several failures in our camera system, and we wanted a more robust and reliable solution. By more than doubling the amount of cameras, Terrapin featured a total of seven cameras. This provided Terrapin with some much needed redundancy in case of a failure.</p>
+            <p><h4>The Task</h4>The Port of Long Beach is one of the world’s busiest seaports. It is the second-busiest container port in the United States, after the Port of Los Angeles, which it connects to. With all of the activity and vessel traffic, the Port of Long Beach is not immune to accidents and pollution. Thousands of dollars have been spent on the removal and remediation of contaminated sites. Specifically, the port managers are in need of a robot that can: <br><ol><li>Assist with the installation of a Hyperloop system to expedite the delivery of goods and streamline commerce</li><li>Conduct maintenance on the port’s water and light show to guarantee uninterrupted entertainment</li><li>Identify and collect samples of contaminated sediment then remediate the area to protect the health of people and the environment</li><li>Identify the contents of containers that fell off of a cargo ship into the harbor and map the accident site to ensure the safety of the port and its operations</li></ol> </p>
+            <p><h4>The Result</h4>In the competition in Long Beach, Vortex NTNU placed 13th out of 25 contenders in the Explorer class. The highlights this year were the technical documentation, marketing and safety categories, all of which Vortex performed well in. </p>
+            <p>Vortex received 50 points for safety, which was the highest score awarded in that category. It is also worth noticing the great improvement in marketing. The team went from getting the lowest number of points in 2016 to scoring in the top ten on the marketing display in 2017. </p>
+            <p>Although the team put in an immense effort during the last few days in Long Beach, Vortex NTNU struggled with technical problems, and ended up with a low score on the product demonstration. Despite this, the strong performances in other categories led to an overall improvement compared to 2016, both in total points and placement in the competition.</p>
+      </div>
+<div id="2016" class="tabcontent" style="display:none;">
+    <h3>2016 - Maelstrom</h3>
+            <p>The Maelstrom project was the first project for the newly started student organization, Vortex NTNU. After nearly 6000 working hours and an estimated cost of 16 200 USD, Maelstrom was born. Maelstrom is a technical and high functioning ROV, but with a simple square design. Due to lack of experience, Maelstroms components are highly excessive compared to its use. The thrusters and connectors can for instance withstand depths of 1000 meters.</p>
+            <p><h4>The Task</h4>NASA and Oceaneering Space Systems (OSS) have issued a request for proposals (RFP) for a first-of- its- kind, dual purpose and single launch remotely operated vehicle that can operate in the harsh environments of both the deep ocean and outer space. Specifically, scientists and engineers at these organizations are in need of a robot that can:<ol><li>Survive transport to Jupiter’s moon Europa and operate in the ocean under its ice sheet to collect data and deploy instrumentation</li><li>Find and recover critical equipment that sank in the Gulf of Mexico after a recent series of testing programs</li><li>Collect samples and analyze data from oil mats located in the northern Gulf of Mexico to determine their origin</li><li>Photograph and collect samples of deep-water corals to assess their health post-Deepwater Horizon oil spill</li><li>Prepare a wellhead for decommission and conversion into an artificial reef</li></ol></p>
+            <p><h4>The Result</h4>In the final tally, Vortex ended up placing 16th out of 31 teams, however the score distribution tells an interesting story. On the technical product demonstration, which had been the primary focus by far, the team managed a very respectable 10th place. On the other hand, the score sheet marked the effort dead last on marketing, an area where the team had no experience or expertise. All in all, the Vortex’ debut resulted in a decent performance with a clear potential for further improvement. The experience gained and the lessons learned provided the organization with a solid foundation for reaching the long-term ambition of being a top contender. </p>
+      </div>
+<!-- <div id="2017" class="tabcontent" style="display:none;">
+  <h3>2017</h3>
+  <p>London is the capital city of England.</p>
+</div> -->
+</div>
+
+<div class="slick-slider float-right column col-5 col-sm-12">
+        <div><img src='/user/pages/03.projects/03._rov/1.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/2.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/3.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/4.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/5.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/6.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/7.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/8.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/9.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/10.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/11.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/12.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/13.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/14.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/15.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/16.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/17.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/18.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/19.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/20.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/21.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/22.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/23.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/24.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/25.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/26.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/27.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/28.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/29.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/30.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/31.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/32.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/33.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/34.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/35.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/36.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/37.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/38.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/39.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/40.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/41.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/42.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/43.jpg'/></div>
+        <div><img src='/user/pages/03.projects/03._rov/44.jpg'/></div>
+      </div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.slick-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        adaptiveHeight: true,
+        dots: true,
+        infinite: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        adaptiveHeight: true,
+      });
+    });
+  </script>
+<script>
+    function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tab-item");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+    
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementsByClassName("tab-item")[0].click();
+    </script>
+            
+            <!-- <div class="float-right column col-5 col-sm-12">
+            <blockquote>
+                <h3></h3>
+                                </blockquote>
+            </div>
+            <div class="column col-6 col-md-12-auto">
+                                    <img alt="" class="align-left" src="/user/pages/03.projects/03._rov/1.jpg" />
+                            </div> -->
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

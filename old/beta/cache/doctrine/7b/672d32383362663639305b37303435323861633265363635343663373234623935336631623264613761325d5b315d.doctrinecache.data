@@ -1,0 +1,23 @@
+1525257058
+a:2:{s:7:"content";s:2260:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-6 col-sm-12">
+                <h2>Our Story</h2>
+                
+                                <p>It all started in 2015; a small group of six students from different disciplines at NTNU took their homework a step further; instead of only designing a ROV on paper, they wanted to realize the design by building a real ROV. The possibility of participating in the MATE international ROV competition at NASA"s facilities motivated the group even more. Vortex became a project, and it was positively received by the students at NTNU. People were eagerly applying to join, and it quickly became a 20 members project team.</p>
+                                <p>Just as other startups, the lack of experience presented the team a great deal of challenges, setbacks and frustration. However, the commitment and unwillingness to give up the initial idea of Vortex allowed the team to complete the construction of the ROV. The team managed to secure an overall 16th place out of 31 teams in the competition debut - securing a successful end to the project.</p>
+                                <p>After achieving what the team was originally set out to do, it became a programme. The only ROV programme at NTNU. Because, the team realized it developed into something bigger; a platform for students to apply their knowledge on concrete tasks by developing a fully functioning ROV.</p>
+                            </div>
+            <div class="centered column col-4 col-sm-12">
+                <img title="Maelstrom" alt="Maelstrom" class="myclass" src="/user/pages/02.about/04._our-story/in-action_1.jpg" />
+                                <p>Assembly of Maelstrom at the MATE international ROV competition</p>
+                                <br>
+                <img title="ISS" alt="ISS" class="myclass" src="/user/pages/02.about/04._our-story/at-the-nbl.jpg" />
+                                <p>Overview of a full-scale mock-up of the International Space Station (ISS) at NASA’s Neutral Buoyancy Lab in Houston, Texas</p>
+                            </div>
+        </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

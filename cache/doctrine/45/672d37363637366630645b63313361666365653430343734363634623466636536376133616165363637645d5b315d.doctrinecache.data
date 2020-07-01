@@ -1,0 +1,26 @@
+1594198688
+a:2:{s:7:"content";s:2779:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-7 col-sm-12">
+                <h2>A Few Words About Us</h2>
+                                <p><h5>Vortex NTNU is an independent student organization at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Our team is composed of students from different engineering disciplines from bachelor and master degree programs.</h5></p>
+                                <p><h5>Each year up until 2019 we have conceived, designed, and built an ROV from scratch to compete in the MATE international ROV competition. This year we have developed as an organization and made our first autonomous vehicle (AUV). This means we will be entering a new competition and face different challenges to push our boundaries further. We dive headfirst into this new challenge and are eager to improve our skills in engineering, teamwork and development of autonomous systems.</h5></p>
+                                <p><h5>We are passionate about science and technology, and we provide an ideal opportunity for ambitious students to explore and develop their talents and skills in a collaborative undertaking. Through the project, we demonstrate that we can deliver a complex and integrated product in the demanding environment of an underwater competition.</h5></p>
+                            </div>
+            <div class="float-right column col-5 col-sm-12">
+            <blockquote>
+                <h3>What is an AUV?</h3>
+                                <p>An Autonomous Underwater Vehicle (AUV) is an unmanned vehicle which performs its mission without being directly controlled by a human operator. AUVs use advanced perception and control technology in order to locate and solve tasks in possibly harsh and challenging subsea environments. </p>
+                                <p>Mounted thrusters allow full navigation forward, backward, sideways; and even rotation around the vehicle's own axis is possible. The mobile device may have video cameras, lights, various types of sensors, sonar capabilities as well as manipulator and cutting arms.</p>
+                                <p>AUVs are often designed, programmed and armed for specific purposes, like scientific research or maintenance in commercial industries. The possibilities are endless and future problems will demand more and more autonomous technology and automatic systems with minimal human supervision. </p>
+                                </blockquote>
+            </div>
+            <div class="column col-6 col-md-12-auto">
+                            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,26 @@
+1525257058
+a:2:{s:7:"content";s:2680:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-7 col-sm-12">
+                <h2>A Few Words About Us</h2>
+                                <p><h5>Vortex NTNU is an independent student organization at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Our team is composed of students from different engineering disciplines from bachelor and master degree programs.</h5></p>
+                                <p><h5>Each year we conceive, design, and build an ROV from scratch to compete in the MATE international ROV competition. We dive headfirst into a diversity of challenges in an effort to push our boundaries and improve skills in communication, management, and engineering.</h5></p>
+                                <p><h5>We are passionate about science and technology, and we provide an ideal opportunity for ambitious students to explore and develop their talents and skills in a collaborative undertaking. Through the project, we demonstrate that we can deliver a complex and integrated product in the demanding environment of an underwater competition.</h5></p>
+                            </div>
+            <div class="float-right column col-5 col-sm-12">
+            <blockquote>
+                <h3>What is a ROV?</h3>
+                                <p>A Remotely Operated Vehicle (ROV) is an unmanned underwater robot capable of deployment at great depth. The vehicle is tethered to a control unit aboard a vessel on the surface.</p>
+                                <p>The crew is able to maneuver the vehicle in harsh environments without getting their feet wet. Mounted thrusters allow full navigation forward, backward, sideways; and even rotation around the vehicle's own axis is possible. The mobile device may have video cameras, lights, various types of sensors, sonar capabilities as well as manipulator and cutting arms. In sum; we are dealing with a carefully calculated and sophisticated structure with appropriate buoyancy, topped with some neat technical gear.</p>
+                                <p>The possibilities that an ROV offers are countless. Usage includes offshore extractions, construction, broadcasting, exploration and surveillance of the subsea environment - even mine hunting and mine breaking. ROVs can even be used for recreational purposes (just for fun)! </p>
+                                </blockquote>
+            </div>
+            <div class="column col-6 col-md-12-auto">
+                            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

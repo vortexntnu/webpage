@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Contact</title>
+    <link rel="icon" type="img/png" href="img/favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/sticky-nav.js" defer></script>
+    <script src=js/gmaps.js defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDY0EslAdUjI7QbTxykCn47PB7vgcBo39I&callback=initMap" defer></script>
+    <style>
+        #link-wrapper a:nth-of-type(6) {
+            color: #A72717;
+        }
+
+        #map {
+            height: 400px;
+            width: 500px;
+            border: solid #A72717 2px;
+        }
+
+        p {
+            margin: 0 0;
+        }
+
+        .flex {
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+
+        .mail img {
+            display: block;
+            width: 40px;
+            margin: 5px 10px 5px 0;
+        }
+
+        .mail {
+            display: flex;
+            align-items: center;
+        }
+
+        .contact {
+            width: 100%;
+            margin-bottom: 40px;
+        }
+
+        h3 {
+            margin-bottom: 5px;
+        }
+
+        .align a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div id='core-nav'>
+            <a id='img-link' href='index.html'><img src='img/logo_og_navn.png'></a>
+            <div id='link-wrapper'>
+                <a href='index'>HOME</a>
+                <a href='about'>ABOUT</a>
+                <a href='projects'>PROJECTS</a>
+                <a href='team'>TEAM</a>
+                <a href='join'>JOIN US</a>
+                <a href='contact'>CONTACT</a>
+            </div>
+        </div>
+    </nav>
+    <div class="align">
+        <h1>Contact</h1>
+        <div class="flex">
+            <div>
+                <div class="contact">
+                    <h3>Vortex</h3>
+                    <p>Rom D038,<br> O. S. Bragstads plass 2D,<br> Elektroblokk D, 1. etg.,<br> Gløshaugen, NTNU,<br> NO-7034 Trondheim<br> Norway</p>
+                    <div class="mail"><img src="img/contact/mail-icon.png"><a href="mailto:post@vortexntnu.no">post@vortexntnu.no</a></div>
+                </div>
+                <div class="contact">
+                    <h3>Sponsorship Manager</h3>
+                    <p>Jørgen Weidemann<br></p>
+                    <div class="mail"><img src="img/contact/mail-icon.png"><a href="mailto:sponsor@vortexntnu.no">sponsor@vortexntnu.no</a></div>
+                </div>
+            </div>
+            <div id="map"></div>
+        </div>
+    </div>
+</body>
+
+</html>

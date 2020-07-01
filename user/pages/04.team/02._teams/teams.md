@@ -7,7 +7,6 @@ items:
     - 2018
     - 2017
     - 2016
-
 years:
     -
         year: 2020
@@ -736,8 +735,6 @@ years:
                         name: 'Simon L''orange'
                         role: EiT
                         from: 'Hometown: Gjerdrum'
-
-
 ---
 
 Change to Expert Mode and edit the "Frontmatter"
