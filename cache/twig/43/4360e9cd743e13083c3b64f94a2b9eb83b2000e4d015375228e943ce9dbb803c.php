@@ -123,6 +123,6 @@ class __TwigTemplate_a3ae23c6e8d7edbcda7bf801d2fb59e97a919ab37867db836fcc076d8b1
 <rect x=\"353\" y=\"103.6\" class=\"st1\" width=\"238\" height=\"67.4\"/>
 <text transform=\"matrix(1.1298 0 0 1 352.9893 119.7217)\" class=\"st3 st5\">NTNU</text>
 </svg>
-", "@images/logo.svg", "/Library/WebServer/Documents/www/user/themes/quark/images/logo.svg");
+", "@images/logo.svg", "/Library/WebServer/Documents/webpage/user/themes/quark/images/logo.svg");
     }
 }

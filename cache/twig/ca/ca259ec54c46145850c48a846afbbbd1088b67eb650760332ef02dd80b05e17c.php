@@ -66,6 +66,6 @@ class __TwigTemplate_7cb7b2d8d91a4b84073a773f2da41e819f04ec3ea517fe14bf3852960a2
 {{ dump(hero_image) }}
 
 <div style=\"background-image: {{ page.media[page.header.media_order].url }};height:auto;width=100%;\"><img src=\"{{ page.media[page.header.media_order].url }}\" /></div>
-", "modular/main.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/modular/main.html.twig");
+", "modular/main.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/modular/main.html.twig");
     }
 }

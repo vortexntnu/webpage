@@ -84,6 +84,6 @@ class __TwigTemplate_a46ef85662f486e35d13099dad31b6d836d536f23460d65f96a331dad99
 \t\t</div>
 \t</div>
 {% endblock %}
-", "error.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/error.html.twig");
+", "error.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/error.html.twig");
     }
 }

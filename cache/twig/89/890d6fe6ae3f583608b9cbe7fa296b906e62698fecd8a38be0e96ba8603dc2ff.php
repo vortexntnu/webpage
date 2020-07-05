@@ -312,6 +312,6 @@ class __TwigTemplate_16e884e85782f224f0c1e4196f1407ba424ef6ae9c8c92e92c188aee163
         {{ module.content }}
     {% endfor %}
 {% endblock %}
-", "modular.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/modular.html.twig");
+", "modular.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/modular.html.twig");
     }
 }

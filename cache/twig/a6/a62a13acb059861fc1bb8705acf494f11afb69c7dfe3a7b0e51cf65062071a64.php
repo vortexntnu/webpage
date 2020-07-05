@@ -161,6 +161,6 @@ class __TwigTemplate_27d563d6d45318414fbe6eae4ef51ea976b29e60c02ba2a0a4638d19f19
     {{ _self.nav_loop(pages) }}
 </ul>
 
-", "partials/navigation.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/partials/navigation.html.twig");
+", "partials/navigation.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/partials/navigation.html.twig");
     }
 }

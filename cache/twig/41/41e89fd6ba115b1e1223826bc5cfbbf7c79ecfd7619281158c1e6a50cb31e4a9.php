@@ -139,6 +139,6 @@ class __TwigTemplate_e3437681490dfa86880eaafebe6c53f0bb22b20d0055a626d468c7247bd
             </div>
         </section>
 </section>
-", "modular/features.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/modular/features.html.twig");
+", "modular/features.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/modular/features.html.twig");
     }
 }
