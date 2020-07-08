@@ -8,6 +8,7 @@ cont1:
 
 cont2:
     tittel: 
+    image_align: center
     img: Statoil_Logo_Bottom.png
 ---
 
