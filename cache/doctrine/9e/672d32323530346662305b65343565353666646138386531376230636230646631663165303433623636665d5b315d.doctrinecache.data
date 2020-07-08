@@ -1,0 +1,24 @@
+1594806210
+a:2:{s:7:"content";s:2107:"
+<section id="modular-text" class="section  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns">
+            <div class="column col-4 col-sm-12">
+                <h3>FFU</h3>
+                                <p>FFU is a Norwegian association for remote subsea technology which gathers everyone with an interest within this domain. The members of the association include numerous companies, institutions, students and also individuals interested in remote subsea technology. FFU has also an increased focus on sharing new technology with its members through the annual FFU seminar, in addition to the magazine “DYP”.</p>
+                                <img title="FFU" alt="FFU" class="myclass" src="/user/pages/05.sponsors/03._gull/FFU.png" />
+            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>Innova</h3>
+                                <p>We believe a solid foundation for teamwork is a key factor for success. The state of cohesion we experience trough the project is what makes us who we are as an organization. Team spirit is essential to recognize the individual qualities, and strengthen our overall team performance..</p>
+                                <img title="Innova" alt="Innova" class="myclass" src="/user/pages/05.sponsors/03._gull/Innova.png" />
+            </div>
+            <div class="column col-4 col-sm-12">
+                <h3>Nortek</h3>
+                                <p>Nortek is a world-renowned company which develops technology and scientific instruments for measuring waves, current, turbulence and last but not least underwater navigation. We are grateful to be using Nortek’s DVL 1000 on our AUV, which is one of the world’s smallest commercially available Doppler Velocity Log. The DVL has been essential in the development of our AUV, Manta’s navigation system.</p>
+                                <img title="Nortek" alt="Nortek" class="myclass" src="/user/pages/05.sponsors/03._gull/nortek.png" />
+            </div>
+        </div>
+        <div class="divider"></div>
+    </section>
+</section>";s:12:"content_meta";N;}

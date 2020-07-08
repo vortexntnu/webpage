@@ -1,105 +1,105 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1593947664,
-    'checksum' => 'f08e343e4d71a3b3cd1a9f12df2f7a70',
+    'timestamp' => 1593952969,
+    'checksum' => 'bad8d3e00a24d5267ae9658b842cf3d3',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'plugins/devtools' => [
                 'file' => 'user/config/plugins/devtools.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'plugins/google-maps' => [
                 'file' => 'user/config/plugins/google-maps.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'themes/antimatter' => [
                 'file' => 'user/config/themes/antimatter.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'themes/quark' => [
                 'file' => 'user/config/themes/quark.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952676
             ]
         ],
         'user/plugins' => [
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1593947068
+                'modified' => 1593952677
             ],
             'plugins/google-maps' => [
                 'file' => 'user/plugins/google-maps/google-maps.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/devtools' => [
                 'file' => 'user/plugins/devtools/devtools.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1593947069
+                'modified' => 1593952677
             ]
         ]
     ],

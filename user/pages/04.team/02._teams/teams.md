@@ -17,7 +17,7 @@ years:
                 leader:
                     image: 2020-vegard.png
                     name: 'Vegard Haraldstad'
-                    role: CEO
+                    role: 'CEO'
                 description: 'The Board is responsible for coordinating the project and securing a sustainable development of the organization. Their involvement ensures close cooperation between the respective group leaders, and the team’s overall progression, budget and wellbeing.'
                 members:
                     -
@@ -47,6 +47,7 @@ years:
                     image: 2020-kristian.png
                     name: 'Kristian Auestad'
                     role: 'Head of Control'
+                    email: 'control@vortexntnu.no'
                 description: 'The Control group is responsible for implementing the software used to control the AUV. The software makes the AUV able to solve the tasks presented. To do this they are working with for example path and mission planning, machine learning and state estimation.'
                 members:
                     -
@@ -67,6 +68,7 @@ years:
                     image: 2020_kevin.png
                     name: 'Kevin K. Varughese'
                     role: 'Head of Perception'
+                    email: 'perception@vortexntnu.no'
                 description: 'The Perception group’s is responsible for implementing the sensory of the AUV. On a daily basis they are working with computer vision, SLAM and Sensor Interfacing. This year they are especially focusing on acoustics, so the AUV can improve its underwater communication. The group members gain valuable experience in how the AUV perceives its environment and uses the information for decision-making.'
                 members:
                     -
@@ -95,6 +97,7 @@ years:
                     image: 2020-olejacob.png
                     name: 'Ole Jacob Brunstad'
                     role: 'Head of mechanical'
+                    email: 'hardware-mechanic@vortexntnu.no'
                 description: 'The Hardware - Mechanics groups main responsibilities include 3D modeling in CAD, and developing the AUVs physical parts. In addition, they also work on replicating equipment and parts which are used in the RoboSub competition so that the AUVs abilities can be tested, as it will in the competition. Essentially, they combine fluid statics with bright solutions to develop a stable and safe underwater vehicle which will (hopefully) perform to the best of its abilities.'
                 members:
                     -
@@ -112,6 +115,7 @@ years:
                     image: 2020-børge.png
                     name: 'Børge Pahlm'
                     role: 'Head of electro'
+                    email: 'hardware-electronic@vortexntnu.no'
                 description: 'The Hardware - Electronics group is responsible for all the electronics on the AUV and thereby they work with PCB and circuit design, in addition to choosing the electronical components needed for the AUV to function as desired. They are also in charge for a functioning camera system and developing well-working power supply solution. Last but not least, they also work with signal processing and acoustics.'
                 members:
                     -

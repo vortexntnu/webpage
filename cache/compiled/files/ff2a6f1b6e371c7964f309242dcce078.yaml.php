@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Library/WebServer/Documents/webpage/user/plugins/google-maps/blueprints.yaml',
-    'modified' => 1593947069,
+    'modified' => 1593952677,
     'data' => [
         'name' => 'Google Maps',
         'version' => '1.0.7',
