@@ -74,6 +74,6 @@ class __TwigTemplate_5dc22261c232aed3aad1bb27f0a44669e25103643997d8c2e2ca54d0f49
       <span class=\"text-light\">  {{ content }} </span>
     </section>
     
-</section>", "partials/banner.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/partials/banner.html.twig");
+</section>", "partials/banner.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/partials/banner.html.twig");
     }
 }

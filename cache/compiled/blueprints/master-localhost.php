@@ -1,73 +1,73 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1593596620,
-    'checksum' => '4f71cda35db350ff03dad7cc38a95183',
+    'timestamp' => 1593947665,
+    'checksum' => 'a194a3a342015db63572e20582525199',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ]
         ],
         'system/blueprints/config' => [
             'media' => [
                 'file' => 'system/blueprints/config/media.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ],
             'site' => [
                 'file' => 'system/blueprints/config/site.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ],
             'streams' => [
                 'file' => 'system/blueprints/config/streams.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ],
             'system' => [
                 'file' => 'system/blueprints/config/system.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ]
         ],
         'user/plugins' => [
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947068
             ],
             'plugins/google-maps' => [
                 'file' => 'user/plugins/google-maps/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/devtools' => [
                 'file' => 'user/plugins/devtools/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
-                'modified' => 1535148000
+                'modified' => 1593947069
             ]
         ]
     ],

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://quark/quark.yaml',
-    'modified' => 1535148000,
+    'modified' => 1593947069,
     'data' => [
         'enabled' => true,
         'production-mode' => true,

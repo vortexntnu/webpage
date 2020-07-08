@@ -62,6 +62,6 @@ class __TwigTemplate_1ceff8e388ef295a1ff949a2425186f93ff5a428a7d0335da13dcc62f77
 {{ dump(hero_image) }}
 
 {% include 'partials/banner.html.twig' with {id: 'modular-hero'} %}
-", "modular/banner.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/modular/banner.html.twig");
+", "modular/banner.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/modular/banner.html.twig");
     }
 }

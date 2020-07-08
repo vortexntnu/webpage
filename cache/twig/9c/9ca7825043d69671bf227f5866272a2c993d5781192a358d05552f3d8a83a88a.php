@@ -279,6 +279,6 @@ class __TwigTemplate_fdf60c81839b3553cbe3c4ddf9784c57cbe6dfc7f92e5f45c8aee81af8a
         <div class=\"divider\"></div>
     </section>
 </section>
-", "modular/teams.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/modular/teams.html.twig");
+", "modular/teams.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/modular/teams.html.twig");
     }
 }

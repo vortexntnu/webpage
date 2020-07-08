@@ -541,6 +541,6 @@ class __TwigTemplate_84dea917bd7fa752d45c4d5efeea77c029c440d7c8d5c33fcad1eb9eaa7
 {% endblock %}
 
 </body>
-", "partials/base.html.twig", "/Library/WebServer/Documents/www/user/themes/quark/templates/partials/base.html.twig");
+", "partials/base.html.twig", "/Library/WebServer/Documents/webpage/user/themes/quark/templates/partials/base.html.twig");
     }
 }
