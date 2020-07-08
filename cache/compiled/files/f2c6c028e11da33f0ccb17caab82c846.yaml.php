@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Library/WebServer/Documents/webpage/user/config/site.yaml',
-    'modified' => 1593947068,
+    'modified' => 1593952676,
     'data' => [
         'title' => 'Vortex NTNU',
         'default_lang' => 'en',

@@ -88,9 +88,9 @@ class __TwigTemplate_fdf60c81839b3553cbe3c4ddf9784c57cbe6dfc7f92e5f45c8aee81af8a
                 echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "name", array());
                 echo "</h6>";
                 echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "role", array());
-                echo "<br>";
-                echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "from", array());
-                echo "</p>
+                echo "<br><i>";
+                echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "email", array());
+                echo "</i></p>
         </div>
         <div class=\"float-right column col-9 col-sm-12\" style=\"vertical-align:top;display: inline-block;\">
             <h4>";
@@ -111,9 +111,9 @@ class __TwigTemplate_fdf60c81839b3553cbe3c4ddf9784c57cbe6dfc7f92e5f45c8aee81af8a
                 echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "name", array());
                 echo "</h6>";
                 echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "role", array());
-                echo "<br>";
-                echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "from", array());
-                echo "</p>
+                echo "<br><i>";
+                echo $this->getAttribute($this->getAttribute($context["gruppe"], "leader", array()), "email", array());
+                echo "</i></p>
         </div>
             ";
                 // line 33
@@ -233,14 +233,14 @@ class __TwigTemplate_fdf60c81839b3553cbe3c4ddf9784c57cbe6dfc7f92e5f45c8aee81af8a
     <div id=\"wrapper\" style=\"display:table-cell;\">
         <div class=\"column col-3 col-sm-12 hide-sm\" style=\"vertical-align:top;display: inline-block;\">
             <img src='{{ page.media[gruppe.leader.image].url }}'/>
-            <p><h6 style=\"padding-left: 1.5em;text-indent:-1.5em;\">{{ gruppe.leader.name }}</h6>{{ gruppe.leader.role }}<br>{{ gruppe.leader.from }}</p>
+            <p><h6 style=\"padding-left: 1.5em;text-indent:-1.5em;\">{{ gruppe.leader.name }}</h6>{{ gruppe.leader.role }}<br><i>{{ gruppe.leader.email }}</i></p>
         </div>
         <div class=\"float-right column col-9 col-sm-12\" style=\"vertical-align:top;display: inline-block;\">
             <h4>{{ gruppe.title }}</h4>
             <p>{{ gruppe.description }}</p>
             <div class=\"column col-3 col-sm-12 show-sm\" style=\"vertical-align:top;display: inline-block;\">
             <img src='{{ page.media[gruppe.leader.image].url }}'/>
-            <p><h6 style=\"padding-left: 1.5em;text-indent:-1.5em;\">{{ gruppe.leader.name }}</h6>{{ gruppe.leader.role }}<br>{{ gruppe.leader.from }}</p>
+            <p><h6 style=\"padding-left: 1.5em;text-indent:-1.5em;\">{{ gruppe.leader.name }}</h6>{{ gruppe.leader.role }}<br><i>{{ gruppe.leader.email }}</i></p>
         </div>
             {% for member in gruppe.members %}
             <div class=\"column col-3 col-sm-12\" style=\"vertical-align:top;display: inline-block;\">

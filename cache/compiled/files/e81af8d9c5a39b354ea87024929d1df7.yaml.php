@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Library/WebServer/Documents/webpage/user/plugins/login/languages/hr.yaml',
-    'modified' => 1593947069,
+    'modified' => 1593952677,
     'data' => [
         'PLUGIN_LOGIN' => [
             'ACCESS_DENIED' => 'Pristup odbijen...',

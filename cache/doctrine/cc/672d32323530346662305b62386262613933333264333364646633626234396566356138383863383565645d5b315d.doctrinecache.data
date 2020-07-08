@@ -1,0 +1,15 @@
+1594563127
+a:2:{s:7:"content";s:382:"<div id="map-d0cb6967d5" class="google-map" style="width: '100%'; height: 400px"
+     data-lat="63.418551"
+     data-lng="10.399409"
+     data-zoom="18"
+     data-scrollwheel="true"
+     data-draggable="1"
+     data-pancontrol="1"
+     data-iconurl="'/absolute/path/to/marker/icon.png'"
+     data-infowindow="
+<p><strong><em>Vortex NTNU</em></strong>
+The Headquarters</p>
+">
+</div>
+";s:12:"content_meta";N;}
