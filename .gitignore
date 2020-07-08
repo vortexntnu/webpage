@@ -1,1 +1,4 @@
 *.json
+cache/*/
+cache/doctrine/*/
+cache/problem-check-g-3e3f8a35
