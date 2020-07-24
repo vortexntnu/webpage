@@ -34,7 +34,7 @@ class __TwigTemplate_d8efde0f1830bc90142a69c4468df5b13d71c54b8df2eaa5b923baea007
         echo ($context["grid_size"] ?? null);
         echo "\">
         <div class=\"columns\">
-            <div class=\"column col-4 col-sm-12\">
+            <div class=\"column col-2 col-sm-2\">
                 <h3>";
         // line 9
         echo $this->getAttribute($this->getAttribute($this->getAttribute(($context["page"] ?? null), "header", array()), "cont1", array()), "tittel", array());
@@ -82,7 +82,7 @@ class __TwigTemplate_d8efde0f1830bc90142a69c4468df5b13d71c54b8df2eaa5b923baea007
     <h4>{{ page.header.title }}</h4>
     <section class=\"container {{ grid_size }}\">
         <div class=\"columns\">
-            <div class=\"column col-4 col-sm-12\">
+            <div class=\"column col-2 col-sm-2\">
                 <h3>{{ page.header.cont1.tittel }}</h3>
                 {{ page.media[page.header.cont1.img].html(page.header.cont1.tittel,page.header.cont1.tittel, 'myclass') }}
             </div>

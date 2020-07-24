@@ -10,7 +10,7 @@ cont2:
     img: Innova.png
     content:
         -
-            avsnitt: 'We believe a solid foundation for teamwork is a key factor for success. The state of cohesion we experience trough the project is what makes us who we are as an organization. Team spirit is essential to recognize the individual qualities, and strengthen our overall team performance..'
+            avsnitt: ''
 cont3:
     tittel: Nortek
     img: nortek.png
