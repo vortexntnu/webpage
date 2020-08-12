@@ -1,15 +1,21 @@
 {% set grid_size = theme_var('grid-size') %}
 {% set image = page.media.images|first %}
 
+
 <section id="modular-text" class="section {{ page.header.class}} bg-gray">
-    <h4>{{ page.header.title }}</h4>
     <section class="container {{ grid_size }}">
         <div class="columns">
-            <div class="column col-2 col-sm-2">
-                <h3>{{ page.header.cont1.tittel }}</h3>
+            <div class="column col-2 ">
                 {{ page.media[page.header.cont1.img].html(page.header.cont1.tittel,page.header.cont1.tittel, 'myclass') }}
+            </div>
+            <div class="column col-2 ">
+                {{ page.media[page.header.cont2.img].html(page.header.cont2.tittel,page.header.cont2.tittel, 'myclass') }}
+            </div>
+            <div class="column col-2 ">
+                {{ page.media[page.header.cont3.img].html(page.header.cont3.tittel,page.header.cont3.tittel, 'myclass') }}
             </div>
         </div>
         <div class="divider"></div>
     </section>
 </section>
+

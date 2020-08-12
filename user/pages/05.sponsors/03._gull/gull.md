@@ -1,15 +1,15 @@
 ---
-cont1:
+cont1: 
     tittel: FFU
     img: FFU.png
     content:
-        -
+        - 
             avsnitt: 'FFU is a Norwegian association for remote subsea technology which gathers everyone with an interest within this domain. The members of the association include numerous companies, institutions, students and also individuals interested in remote subsea technology. FFU has also an increased focus on sharing new technology with its members through the annual FFU seminar, in addition to the magazine “DYP”.'
 cont2:
     tittel: Innova
     img: Innova.png
     content:
-        -
+        - 
             avsnitt: ''
 cont3:
     tittel: Nortek

@@ -53,8 +53,9 @@ class __TwigTemplate_c1ced19a9cea905b41938ba8e9b1c0626b6681002bafffaa5387b6a72f9
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['para'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 13
-        echo "            </div>
+        // line 12
+        echo " 
+            </div>
             <div class=\"centered column col-5 col-sm-12\">
                 <h2 style=\"opacity: 0.0;\">";
         // line 15
@@ -83,7 +84,7 @@ class __TwigTemplate_c1ced19a9cea905b41938ba8e9b1c0626b6681002bafffaa5387b6a72f9
 
     public function getDebugInfo()
     {
-        return array (  65 => 16,  61 => 15,  57 => 13,  48 => 11,  44 => 10,  40 => 9,  36 => 8,  30 => 5,  26 => 4,  23 => 3,  21 => 2,  19 => 1,);
+        return array (  66 => 16,  62 => 15,  57 => 12,  48 => 11,  44 => 10,  40 => 9,  36 => 8,  30 => 5,  26 => 4,  23 => 3,  21 => 2,  19 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -107,7 +108,7 @@ class __TwigTemplate_c1ced19a9cea905b41938ba8e9b1c0626b6681002bafffaa5387b6a72f9
                 {{ page.media[page.header.cont1.img].html(page.header.cont1.tittel,page.header.cont1.tittel, 'myclass') }}
                 {% for para in page.header.cont1.content %}
                 <p>{{ para.avsnitt }}</p>
-                {% endfor %}
+                {% endfor %} 
             </div>
             <div class=\"centered column col-5 col-sm-12\">
                 <h2 style=\"opacity: 0.0;\">{{ page.header.cont2.tittel }}</h2>

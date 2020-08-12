@@ -1,0 +1,16 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section class="container {{ grid_size }}">
+    <div class="columns">
+        <div class="centered column col-6 col-sm-10">
+            {{ page.media[page.header.cont.img] }}
+        </div>
+        <div class="centered column col-6 col-sm-12">
+            <h2>{{ page.header.cont.tittel }}</h2>
+            {% for para in page.header.cont.content %}
+            <p style="text-align: justify">{{ para.avsnitt }}</p>
+            {% endfor %} 
+        </div>
+    </div>
+</section>
